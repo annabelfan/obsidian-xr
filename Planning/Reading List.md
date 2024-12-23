@@ -1,0 +1,12 @@
+- [ ] VR latency and sickness (Kevin)
+- [ ] UXR discomfort (Kevin)
+- [ ] Discomfort vertical disparity (Kevin)
+- [ ] Musculoskeletal (Brian)
+- [ ] Visual Quality (Brian)
+- [ ] Graystone (Brian)
+- [ ] Cascade (TH)
+- [ ] tuned VR optics (TH)
+- [ ] Pine Lake (TH) 
+- [ ] SID paper (pine lake, TH)
+- [ ] ARVO abstract
+- [ ] Objective analysis of visual fatigue TVST paper (TH)
