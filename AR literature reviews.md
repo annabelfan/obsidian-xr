@@ -1,3 +1,4 @@
+E. Kruijff, J. E. Swan, and S. Feiner. Perceptual issues in augmented reality revisited. In 2010 IEEE International Symposium on Mixed and Augmented Reality, pp. 3–12. IEEE, 2010. 2
 
 R. T. Azuma, “A survey of augmented reality,” Presence: Teleop. Virt. Environ., vol. 6, no. 4, pp. 355–385, 1997.
 
